@@ -1,2 +1,2 @@
 Hello,
-Here is my repo for coursera practice labs
+Here is my repo for coursera practice labs and projects
